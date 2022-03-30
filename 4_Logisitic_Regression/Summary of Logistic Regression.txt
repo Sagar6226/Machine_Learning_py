@@ -1,0 +1,3 @@
+1) Logistic Regression is used for classification problems which contains (Yes or No) like who will buy the insurance, classifying heart attack or email is spam or not
+2) It uses sigmoid or logit function which is 1/1+e^-z where e= 2.718, z= mx+b
+3) Sigmoid function basically converts input into range 0 or 1
