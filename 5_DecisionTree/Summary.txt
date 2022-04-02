@@ -1,0 +1,4 @@
+1) Decision tree is used when the points in a graph are scattered and we cannot divide a clear line (as in logisitic or linear reg) so we use Decision tree
+2) Decision tree is basically dividing into decisions like dividing into a company, then degree, etc as shown in the project.
+3) How to know which decision is better check less entropy (less randomness and best result)
+4) It solves classification problem
