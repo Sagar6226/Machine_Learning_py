@@ -1,0 +1,1 @@
+1) It is an unupervised learning technique in which we divide the points into certain groups and try to identify information out of it.
